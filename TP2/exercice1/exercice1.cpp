@@ -11,7 +11,7 @@ double produitScalaire(double * vect_1,double * vect_2, int n);
 // TODO creATE MAIN FUCTION
 
 
-int main(int argc, char** argv){
+int main_1(int argc, char** argv){
 
     cout << " veuillez entrer les dimension : " << endl;
     int n;
