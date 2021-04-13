@@ -8,7 +8,7 @@
 using namespace std;
 
 
-int main(int argc, char** argv){
+int main_2(int argc, char** argv){
 
     cout << "hello world"<< endl;
     point a(1,5);

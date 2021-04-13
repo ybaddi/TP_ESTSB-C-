@@ -10,6 +10,12 @@ class vecteur3d {
 public:
     vecteur3d();
     vecteur3d(float,float,float);
+
+    int coincide(vecteur3d);
+
+    int coincide(vecteur3d *);
+
+    int coincide(vecteur3d &);
 };
 
 

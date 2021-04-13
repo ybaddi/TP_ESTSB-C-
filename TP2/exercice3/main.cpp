@@ -13,7 +13,7 @@ vect prod(const matrice &m, const vect &x) {
     return res;
 }
 
-int main()
+int main_4()
 {
     vect w (1,2,3) ;
     vect res  ;
