@@ -11,11 +11,11 @@ using namespace std;
 int main_2(int argc, char** argv){
 
     cout << "hello world"<< endl;
-    point a(1,5);
+    vecteur3d a(1, 5);
     affiche(a);
 
-    point*b;
-    b = new point(12,51);
+    vecteur3d*b;
+    b = new vecteur3d(12, 51);
     affiche(*b);
     return 1;
 }

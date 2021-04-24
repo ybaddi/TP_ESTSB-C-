@@ -7,6 +7,6 @@
 
 using namespace std;
 
-void affiche(const point & p){
+void affiche(const vecteur3d & p){
     cout << "les cordonnee sont : "<< p.x << " et " << p.y << endl;
 }
